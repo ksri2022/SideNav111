@@ -3,7 +3,7 @@ var index =0;
 
 function changecolors(){
 var colors = ['red', 'pink', 'violet', 
-'yellow', 'brown', 'Gray'];
+'yellow', 'brown', 'Orange'];
 
 document.getElementsByTagName("body")[0]
 .style.backgroundColor = colors[index++];
